@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23315" started-at="2017-11-01T13:21:02Z" finished-at="2017-11-01T13:21:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23315" started-at="2017-11-01T13:21:02Z" finished-at="2017-11-01T13:21:25Z">
+      <class name="com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded">
+        <test-method status="PASS" signature="ConfigBeforeClass()[pri:0, instance:com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded@5b275dab]" name="ConfigBeforeClass" is-config="true" duration-ms="3895" started-at="2017-11-01T18:51:02Z" finished-at="2017-11-01T18:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBeforeClass -->
+        <test-method status="PASS" signature="ConfigBeforeMethod()[pri:0, instance:com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded@5b275dab]" name="ConfigBeforeMethod" is-config="true" duration-ms="9071" started-at="2017-11-01T18:51:06Z" finished-at="2017-11-01T18:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBeforeMethod -->
+        <test-method status="PASS" signature="VerifythatNewCategoryisAdded()[pri:0, instance:com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded@5b275dab]" name="VerifythatNewCategoryisAdded" duration-ms="9189" started-at="2017-11-01T18:51:15Z" finished-at="2017-11-01T18:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifythatNewCategoryisAdded -->
+        <test-method status="PASS" signature="ConfigAfterMethod()[pri:0, instance:com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded@5b275dab]" name="ConfigAfterMethod" is-config="true" duration-ms="112" started-at="2017-11-01T18:51:24Z" finished-at="2017-11-01T18:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAfterMethod -->
+        <test-method status="PASS" signature="ConfigAfterClass()[pri:0, instance:com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded@5b275dab]" name="ConfigAfterClass" is-config="true" duration-ms="1023" started-at="2017-11-01T18:51:24Z" finished-at="2017-11-01T18:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAfterClass -->
+      </class> <!-- com.Ecommerce.AdminTestscripts.TC002VerifythatNewCategoryisAdded -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
